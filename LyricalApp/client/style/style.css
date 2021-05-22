@@ -1,0 +1,17 @@
+.collection-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.material-icons {
+  cursor: pointer;
+  color: red;
+  margin-right: 5px;
+}
+
+.likes-container {
+  color: blue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
